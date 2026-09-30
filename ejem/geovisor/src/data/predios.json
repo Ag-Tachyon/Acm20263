@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "codigo": "25175-00-01-0001-0001",
+    "matricula": "50C-1000001",
+    "propietario": "María Fernanda Rojas",
+    "direccion": "Calle 10 # 5-20",
+    "destino": "Habitacional",
+    "areaTerreno": 180,
+    "areaConstruida": 120,
+    "avaluo": 310000000,
+    "geometria": [[4, 4], [28, 4], [28, 22], [4, 22]]
+  },
+  {
+    "id": 2,
+    "codigo": "25175-00-01-0001-0002",
+    "matricula": "50C-1000002",
+    "propietario": "Carlos Andrés Peña",
+    "direccion": "Calle 10 # 5-48",
+    "destino": "Habitacional",
+    "areaTerreno": 165,
+    "areaConstruida": 98,
+    "avaluo": 275000000,
+    "geometria": [[32, 4], [54, 4], [54, 22], [32, 22]]
+  },
+  {
+    "id": 3,
+    "codigo": "25175-00-01-0002-0001",
+    "matricula": "50C-1000003",
+    "propietario": "Comercializadora Andina S.A.S.",
+    "direccion": "Carrera 5 # 10-05",
+    "destino": "Comercial",
+    "areaTerreno": 420,
+    "areaConstruida": 380,
+    "avaluo": 980000000,
+    "geometria": [[58, 4], [96, 4], [96, 22], [58, 22]]
+  },
+  {
+    "id": 4,
+    "codigo": "25175-00-01-0003-0001",
+    "matricula": "50C-1000004",
+    "propietario": "Luis Eduardo Gómez",
+    "direccion": "Calle 12 # 5-11",
+    "destino": "Habitacional",
+    "areaTerreno": 210,
+    "areaConstruida": 140,
+    "avaluo": 360000000,
+    "geometria": [[4, 26], [28, 26], [28, 44], [12, 48], [4, 44]]
+  },
+  {
+    "id": 5,
+    "codigo": "25175-00-01-0003-0002",
+    "matricula": "50C-1000005",
+    "propietario": "Institución Educativa Central",
+    "direccion": "Calle 12 # 6-30",
+    "destino": "Institucional",
+    "areaTerreno": 650,
+    "areaConstruida": 410,
+    "avaluo": 1250000000,
+    "geometria": [[32, 26], [54, 26], [54, 44], [32, 44]]
+  },
+  {
+    "id": 6,
+    "codigo": "25175-00-01-0004-0001",
+    "matricula": "50C-1000006",
+    "propietario": "Bodegas del Sur Ltda.",
+    "direccion": "Carrera 7 # 12-60",
+    "destino": "Industrial",
+    "areaTerreno": 890,
+    "areaConstruida": 700,
+    "avaluo": 1800000000,
+    "geometria": [[58, 26], [96, 26], [96, 44], [58, 44]]
+  },
+  {
+    "id": 7,
+    "codigo": "25175-00-02-0001-0001",
+    "matricula": "50C-1000007",
+    "propietario": "Ana Lucía Torres",
+    "direccion": "Vereda El Carmen, Finca La Esperanza",
+    "destino": "Agropecuario",
+    "areaTerreno": 5200,
+    "areaConstruida": 60,
+    "avaluo": 420000000,
+    "geometria": [[4, 52], [46, 52], [46, 62], [4, 62]]
+  },
+  {
+    "id": 8,
+    "codigo": "25175-00-01-0005-0001",
+    "matricula": "50C-1000008",
+    "propietario": "Jorge Iván Martínez",
+    "direccion": "Carrera 8 # 14-02",
+    "destino": "Lote",
+    "areaTerreno": 300,
+    "areaConstruida": 0,
+    "avaluo": 150000000,
+    "geometria": [[50, 48], [96, 48], [96, 62], [62, 62], [50, 56]]
+  }
+]
